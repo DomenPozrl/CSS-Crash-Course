@@ -1,5 +1,5 @@
 # CSS-Crash-Course
-This project is just the code that was used in the CSS Crash Course that I found on YouTube (https://www.youtube.com/watch?v=yfoY53QXEnI).// 
+This project is just the code that was used in the CSS Crash Course that I found on YouTube (https://www.youtube.com/watch?v=yfoY53QXEnI).\\
 I am adding the notes I took during the crash course:
     
     CSS = cascading stylesheets
