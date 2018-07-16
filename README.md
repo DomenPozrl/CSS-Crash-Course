@@ -1,6 +1,5 @@
 # CSS-Crash-Course
-This project is just the code that was used in the CSS Crash Course that I found on YouTube. All credits go to https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA  
-
+This project is just the code that was used in the CSS Crash Course that I found on YouTube (https://www.youtube.com/watch?v=yfoY53QXEnI). 
 I am adding the notes I took during the crash course:
     
     CSS = cascading stylesheets
@@ -30,3 +29,5 @@ I am adding the notes I took during the crash course:
     Padding is the space inside the border
     Margin is the space outside the border
     when applying margin with a short syntax we start at the top edge and move in the direction of the clock
+
+All credits go to https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA  
